@@ -1,0 +1,16 @@
+{
+    "categorias":[
+        {
+            "id": 1,
+            "nome":"Front-End",
+            "descrição":"A gatinha burra",
+            "cor":"#cdb1FF"
+        },
+        {
+            "id": 2,
+            "nome":"Back-End",
+            "descrição":"A bunda programadora esperta",
+            "cor":"#141414"
+        }
+    ]
+}
