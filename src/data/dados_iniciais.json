@@ -1,0 +1,349 @@
+{
+  "categorias": [
+    {
+      "titulo": "Herobrine",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Mas afinal quem é Herobrine ??",
+        "url": "https://www.techtudo.com.br/noticias/noticia/2013/02/herobrine-a-lenda-que-aterroriza-os-jogadores-de-minecraft.html"
+      },
+      "videos": [
+        {
+          "titulo": "TheFatRat - Rise Up (Minecraft Animation)",
+          "url": "https://www.youtube.com/watch?v=dEIDU9aWJuk"
+        },
+        {
+          "titulo": "Animation Life Movie Music ",
+          "url": "https://www.youtube.com/watch?v=uI-m5MBRs7g&t=134s"
+        },
+        {
+          "titulo": "Animation Life Minecraft Complete",
+          "url": "https://www.youtube.com/watch?v=nFQKvjM9HCw&t=572s"
+        },
+        {
+          "titulo": "Parodia 'TAKE ME DOWN'",
+          "url": "https://www.youtube.com/watch?v=mVyI-dzPawY"
+        },
+        {
+          "titulo": "Monster School-O que aconteceu com meus estudantes",
+          "url": "https://www.youtube.com/watch?v=7vdXwe8CcRo"
+        },
+        {
+          "titulo": "Horror video-4k e 360 VR",
+          "url": "https://www.youtube.com/watch?v=5wRwHuuLs1w"
+        },
+        {
+          "titulo": "Monster School-Parabens Herobrine",
+          "url": "https://www.youtube.com/watch?v=rs-zfwE3dJ0"
+        },
+        {
+          "titulo": "Como craftar o Herobrine",
+          "url": "https://www.youtube.com/watch?v=AL0Z05uQuwI"
+        },
+        {
+          "titulo": "Monster School-Herobrine Life",
+          "url": "https://www.youtube.com/watch?v=n194DTgbv2Y"
+        },   
+        {
+          "titulo": "Notch VS Herobrine - Luta ",
+          "url": "https://www.youtube.com/watch?v=SQq6IDdBNGk"
+        }        
+      ]
+    },
+    {
+      "titulo": "Steve e Alex",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Acesse a playlist completa",
+        "url": "https://www.youtube.com/playlist?list=PLTey4464GeIk9EVcbooK2iISOjmlmfkg2"
+      },
+      "videos": [
+        {
+          "titulo": "Estamos presos aqui | Alex e Steve",
+          "url": "https://www.youtube.com/watch?v=fG1wRrt9iag&list=PLTey4464GeIk9EVcbooK2iISOjmlmfkg2&index=6&t=0s"
+        },
+        {
+          "titulo": "Como voar ?! Estilo Steve",
+          "url": "https://www.youtube.com/watch?v=fhxnFNqxK44&list=PLTey4464GeIk9EVcbooK2iISOjmlmfkg2&index=7&t=0s"
+        },
+        {
+          "titulo": "Fugindo de TNTs || Alex e Steve",
+          "url": "https://www.youtube.com/watch?v=_193ylPiaIw&list=PLTey4464GeIk9EVcbooK2iISOjmlmfkg2&index=8&t=0s"
+        },
+        {
+          "titulo": "Esconde-Esconde !Trapaceiro ?? | Alex e Steve",
+          "url": "https://www.youtube.com/watch?v=EwyjFctmikk&list=PLTey4464GeIk9EVcbooK2iISOjmlmfkg2&index=9&t=5s"
+        }, 
+        {
+          "titulo": "Como NÃO Lutar com um DRAGÃO || Alex e Steve",
+          "url": "https://www.youtube.com/watch?v=na_Iq2oLjGo&list=PLTey4464GeIk9EVcbooK2iISOjmlmfkg2&index=10&t=115s"
+        },
+        {
+          "titulo": "Romance !! Parte 1",
+          "url": "https://www.youtube.com/watch?v=0DRas7uwR7E&list=PLTey4464GeIk9EVcbooK2iISOjmlmfkg2&index=16&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Golens de Ferro !!",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Saiba mais sobre esses golens !!",
+        "url": "https://tecnoblog.net/346206/como-criar-golem-de-ferro-no-minecraft-neve-e-ferro/"
+      },
+      "videos": [
+        {
+          "titulo": "10 curiosidades | Golens de Ferro com AuthenticGames",
+          "url": "https://www.youtube.com/watch?v=5_YImPvh3mk"
+        },
+        {
+          "titulo": "A verdadeira história do Golem de Ferro !!",
+          "url": "https://www.youtube.com/watch?v=bnFUYfLZBE8"
+        },
+        {
+          "titulo": "O Golem de Ferro mais forte do Mundo",
+          "url": "https://www.youtube.com/watch?v=Gk2aZagCPNw"
+        },
+        {
+          "titulo": "Golens Personalizados | JazzGhost",
+          "url": "https://www.youtube.com/watch?v=vSqNy0iud9Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Animais",
+      "cor": "orange",
+      "link_extra":{
+        "text": "Guia Completo de Domesticação",
+        "url": "http://colorindonuvens.com/blog/2017/05/02/minecraft-animais-criacao-de-animais-de-fazenda/"
+      },
+      "videos": [
+        {
+          "titulo": "Mapa de zoologico | Minecraft",
+          "url": "https://www.youtube.com/watch?v=ifIfb-3pJ8g"
+        },
+        {
+          "titulo": "Vida de cachorro | Minecraft",
+          "url": "https://www.youtube.com/watch?v=cPEhLT9fEc0&t=232s"
+        },
+        {
+          "titulo": "Portais de dinossauros | Minecraft",
+          "url": "https://www.youtube.com/watch?v=4-Fvbbtu9mw"
+        },
+        {
+          "titulo": "Animals Animation | Minecraft",
+          "url": "https://www.youtube.com/watch?v=th0HNh6ywjo&t=736s"
+        }
+      ]
+    },
+    {
+      "titulo": "Especial Monster School",
+      "cor": "red",
+      "link_extra": {
+        "text": "Acesse a playlist com todo o conteúdo",
+        "url": "https://www.youtube.com/playlist?list=PLkIf4V1s9enykUqMpDnG2JMJL8BVWr_PX"
+      },
+      "videos": [
+        {
+          "titulo": "Super Mario invade Escola Monstro",
+          "url": "https://www.youtube.com/watch?v=dorhZoTiN-I&list=PLkIf4V1s9enykUqMpDnG2JMJL8BVWr_PX&index=10&t=0s"
+        },
+        {
+          "titulo": "Competição de dança || Monster School",
+          "url": "https://www.youtube.com/watch?v=iDVnUkPlwRc&list=PLkIf4V1s9enykUqMpDnG2JMJL8BVWr_PX&index=14&t=0s"
+        },
+        {
+          "titulo": "Clash Royale | Monster School",
+          "url": "https://www.youtube.com/watch?v=jrG0I_GgHQs&list=PLkIf4V1s9enykUqMpDnG2JMJL8BVWr_PX&index=15&t=0s"
+        },
+        {
+          "titulo": "PUBG | Monster School",
+          "url": "https://www.youtube.com/watch?v=OB3zZLuXSDI&list=PLkIf4V1s9enykUqMpDnG2JMJL8BVWr_PX&index=19&t=0s"
+        },
+        {
+          "titulo": "Temple Run | Monster School ",
+          "url": "https://www.youtube.com/watch?v=Fn6v7jCH7cc&list=PLkIf4V1s9enykUqMpDnG2JMJL8BVWr_PX&index=21&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": " Especial Who's Your Family ??",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Especial de vídeos 'Who's Your Family?",
+        "url": "https://www.youtube.com/playlist?list=PLkd-ynCHFbkYhzwjueP44Z5unKH5sxRf0"
+      },
+      "videos": [
+        {
+          "titulo": "Tom E Jerry | Who's Your Family ??",
+          "url": "https://www.youtube.com/watch?v=QndIR1m0I1I"
+        },
+        {
+          "titulo": "Hulk | Who's Your Family ??",
+          "url": "https://www.youtube.com/watch?v=fpviE2ctAz8&list=PLkd-ynCHFbkYhzwjueP44Z5unKH5sxRf0&index=5&t=221s"
+        },
+        {
+          "titulo": "Herobrine | Who's Your Family",
+          "url": "https://www.youtube.com/watch?v=z3kWNvjKRl0&list=PLkd-ynCHFbkYhzwjueP44Z5unKH5sxRf0&index=4&t=87s"
+        },
+        {
+          "titulo": "Flash | Who's Your Family ??",
+          "url": "https://www.youtube.com/watch?v=Rrt_wpm_WKY&list=PLkd-ynCHFbkYhzwjueP44Z5unKH5sxRf0&index=8&t=44s"
+        },
+        {
+          "titulo": "Jovens Titãs | Who's Your Family ?",
+          "url": "https://www.youtube.com/watch?v=jLoQVhWYLLk&list=PLkd-ynCHFbkYhzwjueP44Z5unKH5sxRf0&index=13&t=19s"
+        },
+        {
+          "titulo": "Batman | Who's Your Family ??",
+          "url": "https://www.youtube.com/watch?v=-ivbvy5daCI&list=PLkd-ynCHFbkYhzwjueP44Z5unKH5sxRf0&index=15&t=0s"
+        },
+        {
+          "titulo": "Pica-Pau | Who's Your Family ?",
+          "url": "https://www.youtube.com/watch?v=Bj5VF69d-s8"
+        },
+        {
+          "titulo": "Homem-Aranha | Who's Your Family ?",
+          "url": "https://www.youtube.com/watch?v=qsAfRNxLmi8"
+        }
+      ]
+    },
+    {
+      "titulo": "Minecraft Dungeons | AuthenticGames",
+      "cor": "purple",
+      "link_extra": {
+        "text": "Acesse a playlist completa",
+        "url": "https://www.youtube.com/playlist?list=PL68bR2cCKLPLUw1W3em23YpBMKvCRHakE"
+      },
+      "videos": [
+        {
+          "titulo": "Lançamento do Novo Minecraft",
+          "url": "https://www.youtube.com/watch?v=cWgX_BzEgWQ&list=PL68bR2cCKLPLUw1W3em23YpBMKvCRHakE&index=5&t=30s"
+        },
+        {
+          "titulo": "Minecraft Dungeons *Novo Minecraft*",
+          "url": "https://www.youtube.com/watch?v=mwdLPX_V8Bg&list=PL68bR2cCKLPLUw1W3em23YpBMKvCRHakE&index=4&t=0s"
+        },
+        {
+          "titulo": "AuthenticGames Jogando Minecraft Dungeons Com Meus Amigos!",
+          "url": "https://www.youtube.com/watch?v=0cC0gB0-Ug0&list=PL68bR2cCKLPLUw1W3em23YpBMKvCRHakE&index=6&t=0s"
+        },
+        {
+          "titulo": "Jogando Ao Vivo",
+          "url": "https://www.youtube.com/watch?v=Tu3v0U-Jp3g&list=PL68bR2cCKLPLUw1W3em23YpBMKvCRHakE&index=7&t=0s"
+        },
+        {
+          "titulo": "Final do Minecraft Dungeons ",
+          "url": "https://www.youtube.com/watch?v=W_1nP6S4WAY&list=PL68bR2cCKLPLUw1W3em23YpBMKvCRHakE&index=8&t=0s"
+        }
+      ]
+    },
+    {
+      "titulo": " Erros de animações Minecraft",
+      "cor": "#63ff32",
+      "link_extra": {
+        "text": "Visite esse canal",
+        "url": "https://www.youtube.com/user/Arbiter617"
+      },
+      "videos": [
+        {
+          "titulo": "Compilação de erros 2018",
+          "url": "https://www.youtube.com/watch?v=mNGTEy-aupc&t=540s"
+        },
+        {
+          "titulo": "Compilação de erros 2019",
+          "url": "https://www.youtube.com/watch?v=rA46QiTgugY&t=238s"
+        },
+        {
+          "titulo": "Compilação de erros Songs of War",
+          "url": "https://www.youtube.com/watch?v=TmErrDqnBf0"
+        },
+        {
+          "titulo": "Compilação de erros | Apocalipse Zumbi",
+          "url": "https://www.youtube.com/watch?v=VGqry4B7htA&list=PLpgMPL6TD5phts3WFxQaSA-ka5ah2MvtE&index=2&t=0s"
+        },
+        {
+          "titulo": "Compilação de erros | Battle Royale",
+          "url": "https://www.youtube.com/watch?v=NIVFgU5f2Rs"
+        }
+      ]
+      },
+      {
+        "titulo": "Villagers News | English",
+        "cor": "#B8860B",
+        "link_extra":{
+          "text": "Acesse a playlist completa",
+          "url": "https://www.youtube.com/playlist?list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt"
+        },
+        "videos": [
+          {
+            "titulo": "Foi Declarado Guerra !!!",
+            "url": "https://www.youtube.com/watch?v=CleUrqPLCzU&list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt&index=2&t=75s"
+          },
+          {
+            "titulo": "O Boneco de Neve BOB",
+            "url": "https://www.youtube.com/watch?v=mBCVeX0mXBw&list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt&index=16&t=0s"
+          },
+          {
+            "titulo": "Noticias ao vivo com os Villagers",
+            "url": "https://www.youtube.com/watch?v=Frtax3pXPtg&list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt&index=15&t=0s"
+          },
+          {
+            "titulo": "O Grande Problema !",
+            "url": "https://www.youtube.com/watch?v=1hoSYvwnv_E&list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt&index=3&t=0s"
+          },
+          {
+            "titulo": "Homem-Teste | Movie!",
+            "url": "https://www.youtube.com/watch?v=ISfNviwVs_A&list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt&index=5&t=0s"
+          },
+          {
+            "titulo": "Villager TV",
+            "url": "https://www.youtube.com/watch?v=b_VRJa9rjso&list=PLnVrQgGuTfZ_JEkI6ieqFE6Sox12YnRAt&index=11&t=0s"
+          }
+        ]
+    },
+    {
+      "titulo": "Filmes do AranhaMaster !",
+      "cor": "#FF00FF",
+      "link_extra":{
+        "text": "Acesse a playlist completa",
+        "url": "https://www.youtube.com/playlist?list=PLSK_E1uEHwNOUWpiW7FBeEQFEox0881ia"
+      },
+      "videos": [
+        {
+          "titulo": "Menino Aranha: Guerra Infinita!",
+          "url": "https://www.youtube.com/watch?v=SJmIR_pkGAk&list=PLSK_E1uEHwNOUWpiW7FBeEQFEox0881ia&index=6&t=0s"
+        },
+        {
+          "titulo": "Menino Aranha no Aranhaverso",
+          "url": "https://www.youtube.com/watch?v=zSPPfmi8SBs&list=PLSK_E1uEHwNOUWpiW7FBeEQFEox0881ia&index=7&t=1368s"
+        },
+        {
+          "titulo": "Menino Aranha: Era de Ultron",
+          "url": "https://www.youtube.com/watch?v=QI0Sk-60KhM&list=PLSK_E1uEHwNOUWpiW7FBeEQFEox0881ia&index=12&t=0s"
+        },
+        {
+          "titulo": "Menino Aranha De Volta ao Lar",
+          "url": "https://www.youtube.com/watch?v=9VKOt8aEDjw&list=PLSK_E1uEHwNOUWpiW7FBeEQFEox0881ia&index=4"
+        },
+        {
+          "titulo": "Menino Aranha Longe de Casa ",
+          "url": "https://www.youtube.com/watch?v=WW2stWwGRVE&list=PLSK_E1uEHwNOUWpiW7FBeEQFEox0881ia&index=10&t=0s"
+        },
+        {
+          "titulo": "Menino Aranha e o Quarteto Fantastico",
+          "url": "https://www.youtube.com/watch?v=pqF72Hx2TYM&list=PLSK_E1uEHwNOUWpiW7FBeEQFEox0881ia&index=13&t=0s"
+        },
+        {
+          "titulo": "Menino Aranha Guerra Civil",
+          "url": "https://www.youtube.com/watch?v=Z64rQwAKMd4&list=PLSK_E1uEHwNOUWpiW7FBeEQFEox0881ia&index=4&t=0s"
+        },
+        {
+          "titulo": "Menino Aranha : Ultimato",
+          "url": "https://www.youtube.com/watch?v=ztLlzFKgrhY&t=723s"
+        }
+      ]
+    }
+  ]
+}
