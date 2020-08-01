@@ -344,6 +344,32 @@
           "url": "https://www.youtube.com/watch?v=ztLlzFKgrhY&t=723s"
         }
       ]
+    },
+    {
+      "titulo": "Astronomia Coffin Meme",
+      "cor": "#D27",
+      "link_extra":{
+        "text": "Escute a música no Spotify",
+        "url": "https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL"
+      },
+      "videos": [
+        {
+          "titulo": "Memes Pt.1",
+          "url": "https://www.youtube.com/watch?v=mnOeZ_IQYg0"
+        },
+        {
+          "titulo": "Memes Pt.2",
+          "url": "https://www.youtube.com/watch?v=0oxMHvgUzb0&list=PL52M88lxuFMKNQO3on7oATcNIYlRQ_DF0&index=11&t=0s"
+        },
+        {
+          "titulo": "Meme Pt.3",
+          "url": "https://www.youtube.com/watch?v=QI0Sk-60KhM&list=PLSK_E1uEHwNOUWpiW7FBeEQFEox0881ia&index=12&t=0s"
+        },
+        {
+          "titulo": "Melhores memes",
+          "url": "https://www.youtube.com/watch?v=lhCEbSHEwXk"
+        }
+      ]
     }
   ]
 }

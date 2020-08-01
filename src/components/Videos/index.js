@@ -51,6 +51,10 @@ function Videos() {
       <Carousel
         category={dadosIniciais.categorias[9]}
       />
+
+      <Carousel
+        category={dadosIniciais.categorias[10]}
+      />
     </>
     
   );
